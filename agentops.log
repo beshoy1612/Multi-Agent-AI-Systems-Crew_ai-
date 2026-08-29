@@ -1,0 +1,40 @@
+2026-08-30 00:27:09,236 - INFO - You're on the agentops free plan 🤔
+2026-08-30 01:07:06,542 - ERROR - Error in span crewai.workflow: Missing required template variable 'Template variable 'no_keyword' not found in inputs dictionary' in description
+2026-08-30 01:08:25,735 - ERROR - Error in span Search_Quaries_Recommendition_Agent.agent: Agent execution was invoked synchronously from within a running event loop. Use `agent.kickoff_async()` / `crew.kickoff_async()` (or `await agent.aexecute_task(...)`) when calling from async code.
+2026-08-30 01:08:25,740 - ERROR - Error in span Search_Quaries_Recommendition_Agent.agent: Agent execution was invoked synchronously from within a running event loop. Use `agent.kickoff_async()` / `crew.kickoff_async()` (or `await agent.aexecute_task(...)`) when calling from async code.
+2026-08-30 01:08:25,748 - ERROR - Error in span Search_Quaries_Recommendition_Agent.agent: Agent execution was invoked synchronously from within a running event loop. Use `agent.kickoff_async()` / `crew.kickoff_async()` (or `await agent.aexecute_task(...)`) when calling from async code.
+2026-08-30 01:08:25,768 - ERROR - Error in span Generate 10 highly relevant and diverse search queries for finding coffee machine for the office.
+The product must be available for purchase and deliverable in Egypt.
+Search only within the following e-commerce websites:
+['www.amazon.eg', 'www.jumia.com.eg', 'www.noon.com/egypt-en']
+Do not search for or include blog posts, articles, reviews, forums, news websites, or informational pages.
+Focus exclusively on product listing pages, product pages, online stores, and e-commerce marketplaces.
+Each search query should be specific and target actual purchasable products.
+Vary the queries by considering different brands, models, specifications, features, price ranges, and product variations.
+Make sure the generated queries are suitable for use directly in a search engine.
+Return exactly 10 search queries and do not provide any additional explanation..task: Agent execution was invoked synchronously from within a running event loop. Use `agent.kickoff_async()` / `crew.kickoff_async()` (or `await agent.aexecute_task(...)`) when calling from async code.
+2026-08-30 01:08:25,793 - ERROR - Error in span crewai.workflow: Agent execution was invoked synchronously from within a running event loop. Use `agent.kickoff_async()` / `crew.kickoff_async()` (or `await agent.aexecute_task(...)`) when calling from async code.
+2026-08-30 01:09:32,814 - ERROR - Error in span Search_Quaries_Recommendition_Agent.agent: Agent execution was invoked synchronously from within a running event loop. Use `agent.kickoff_async()` / `crew.kickoff_async()` (or `await agent.aexecute_task(...)`) when calling from async code.
+2026-08-30 01:09:32,834 - ERROR - Error in span Generate 10 highly relevant and diverse search queries for finding coffee machine for the office.
+The product must be available for purchase and deliverable in Egypt.
+Search only within the following e-commerce websites:
+['www.amazon.eg', 'www.jumia.com.eg', 'www.noon.com/egypt-en']
+Do not search for or include blog posts, articles, reviews, forums, news websites, or informational pages.
+Focus exclusively on product listing pages, product pages, online stores, and e-commerce marketplaces.
+Each search query should be specific and target actual purchasable products.
+Vary the queries by considering different brands, models, specifications, features, price ranges, and product variations.
+Make sure the generated queries are suitable for use directly in a search engine.
+Return exactly 10 search queries and do not provide any additional explanation..task: Agent execution was invoked synchronously from within a running event loop. Use `agent.kickoff_async()` / `crew.kickoff_async()` (or `await agent.aexecute_task(...)`) when calling from async code.
+2026-08-30 01:09:32,856 - ERROR - Error in span crewai.workflow: Agent execution was invoked synchronously from within a running event loop. Use `agent.kickoff_async()` / `crew.kickoff_async()` (or `await agent.aexecute_task(...)`) when calling from async code.
+2026-08-30 01:10:33,937 - ERROR - Error in span Search_Quaries_Recommendition_Agent.agent: Error code: 429 - {'error': {'message': 'You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.', 'type': 'insufficient_quota', 'param': None, 'code': 'credit_balance_exhausted'}}
+2026-08-30 01:10:33,993 - ERROR - Error in span Generate 10 highly relevant and diverse search queries for finding coffee machine for the office.
+The product must be available for purchase and deliverable in Egypt.
+Search only within the following e-commerce websites:
+['www.amazon.eg', 'www.jumia.com.eg', 'www.noon.com/egypt-en']
+Do not search for or include blog posts, articles, reviews, forums, news websites, or informational pages.
+Focus exclusively on product listing pages, product pages, online stores, and e-commerce marketplaces.
+Each search query should be specific and target actual purchasable products.
+Vary the queries by considering different brands, models, specifications, features, price ranges, and product variations.
+Make sure the generated queries are suitable for use directly in a search engine.
+Return exactly 10 search queries and do not provide any additional explanation..task: Error code: 429 - {'error': {'message': 'You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.', 'type': 'insufficient_quota', 'param': None, 'code': 'credit_balance_exhausted'}}
+2026-08-30 01:10:34,056 - ERROR - Error in span crewai.workflow: Error code: 429 - {'error': {'message': 'You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.', 'type': 'insufficient_quota', 'param': None, 'code': 'credit_balance_exhausted'}}
