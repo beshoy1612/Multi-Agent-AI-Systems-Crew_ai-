@@ -4,3 +4,4 @@ agentops
 python-dotenv
 litellm>=1.0.0
 tavily-python
+scrapegraphai
