@@ -1,0 +1,124 @@
+{
+  "products": [
+    {
+      "page_url": "https://www.fajtradingllc.com/pages/coffee-machines-in-egypt",
+      "product_title": "Jetinno JL32 Espresso Coffee Machine",
+      "product_image_url": "https://www.fajtradingllc.com/cdn/shop/files/jetinno-jl32.jpg",
+      "product_url": "https://www.fajtradingllc.com/pages/coffee-machines-in-egypt",
+      "product_current_price": 45000.0,
+      "product_original_price": 50000.0,
+      "product_discount_percentage": 10.0,
+      "product_specs": [
+        {
+          "specification_name": "Type",
+          "specification_value": "Bean-to-Cup Commercial Espresso Machine"
+        },
+        {
+          "specification_name": "Application",
+          "specification_value": "Office & Commercial Space"
+        }
+      ],
+      "agent_recommendation_rank": 5,
+      "agent_recommendation_notes": [
+        "Top-tier bean-to-cup machine designed specifically to boost productivity with cafe-quality office coffee.",
+        "Commercial-grade performance suitable for workplace environments."
+      ]
+    },
+    {
+      "page_url": "https://www.fajtradingllc.com/pages/coffee-machines-in-egypt",
+      "product_title": "De'Longhi Dinamica ECAM350.55.B Fully Automatic Coffee Machine",
+      "product_image_url": "https://www.fajtradingllc.com/cdn/shop/files/delonghi-dinamica.jpg",
+      "product_url": "https://www.fajtradingllc.com/pages/coffee-machines-in-egypt",
+      "product_current_price": 28500.0,
+      "product_original_price": 31000.0,
+      "product_discount_percentage": 8.0,
+      "product_specs": [
+        {
+          "specification_name": "Type",
+          "specification_value": "Fully Automatic Bean-to-Cup"
+        },
+        {
+          "specification_name": "Color",
+          "specification_value": "Black"
+        }
+      ],
+      "agent_recommendation_rank": 4,
+      "agent_recommendation_notes": [
+        "Renowned brand known for reliability and ease of use in small to medium offices.",
+        "Fully automatic functionality reduces preparation time for office staff."
+      ]
+    },
+    {
+      "page_url": "https://www.fajtradingllc.com/pages/coffee-machines-in-egypt",
+      "product_title": "ECM Synchronika II Espresso Machine",
+      "product_image_url": "https://www.fajtradingllc.com/cdn/shop/files/synchronika-ii.jpg",
+      "product_url": "https://www.fajtradingllc.com/pages/coffee-machines-in-egypt",
+      "product_current_price": 65000.0,
+      "product_original_price": null,
+      "product_discount_percentage": null,
+      "product_specs": [
+        {
+          "specification_name": "Display",
+          "specification_value": "OLED PID Display"
+        },
+        {
+          "specification_name": "Heating",
+          "specification_value": "Cartridge heaters in group head"
+        }
+      ],
+      "agent_recommendation_rank": 3,
+      "agent_recommendation_notes": [
+        "Delivers a premium coffee experience with advanced features like an OLED PID display.",
+        "High-end dual boiler machine, ideal for executive offices or high-standard environments."
+      ]
+    },
+    {
+      "page_url": "https://ecoffee1.com/best-espresso-nespresso-coffee-machines-egypt",
+      "product_title": "CIME CO-03 Commercial Espresso Machine",
+      "product_image_url": "https://ecoffee1.com/wp-content/uploads/cime-co03.jpg",
+      "product_url": "https://ecoffee1.com/best-espresso-nespresso-coffee-machines-egypt",
+      "product_current_price": 55000.0,
+      "product_original_price": 60000.0,
+      "product_discount_percentage": 8.3,
+      "product_specs": [
+        {
+          "specification_name": "Category",
+          "specification_value": "Commercial Espresso Machine"
+        },
+        {
+          "specification_name": "Usage",
+          "specification_value": "Busy workplaces and cafes"
+        }
+      ],
+      "agent_recommendation_rank": 2,
+      "agent_recommendation_notes": [
+        "Robust model favored by professionals for heavy-duty extraction.",
+        "Great for larger office environments requiring robust multi-cup capacity."
+      ]
+    },
+    {
+      "page_url": "https://ecoffee1.com/best-espresso-nespresso-coffee-machines-egypt",
+      "product_title": "DSP KA3118 Nespresso Machine",
+      "product_image_url": "https://ecoffee1.com/wp-content/uploads/dsp-ka3118.jpg",
+      "product_url": "https://ecoffee1.com/best-espresso-nespresso-coffee-machines-egypt",
+      "product_current_price": 4200.0,
+      "product_original_price": 5000.0,
+      "product_discount_percentage": 16.0,
+      "product_specs": [
+        {
+          "specification_name": "Type",
+          "specification_value": "Capsule Coffee Machine"
+        },
+        {
+          "specification_name": "Convenience",
+          "specification_value": "Minimal cleanup pod system"
+        }
+      ],
+      "agent_recommendation_rank": 1,
+      "agent_recommendation_notes": [
+        "Affordable and compact option offering speed and convenience with minimal cleanup for small office breakrooms.",
+        "Low initial investment with capsule system ease of use."
+      ]
+    }
+  ]
+}
