@@ -1,123 +1,183 @@
 {
   "products": [
     {
-      "page_url": "https://www.fajtradingllc.com/pages/coffee-machines-in-egypt",
-      "product_title": "Jetinno JL32 Espresso Coffee Machine",
-      "product_image_url": "https://www.fajtradingllc.com/cdn/shop/files/jetinno-jl32.jpg",
-      "product_url": "https://www.fajtradingllc.com/pages/coffee-machines-in-egypt",
-      "product_current_price": 45000.0,
-      "product_original_price": 50000.0,
-      "product_discount_percentage": 10.0,
+      "page_url": "https://tv-it.com/product-categories/gaming-laptop",
+      "product_title": "MSI Katana 15 HX B14WGK Laptop, Intel Core i7 14650HX, 16GB RAM, 1TB SSD, RTX 5070 8GB, 15.6\" QHD 165Hz",
+      "product_image_url": "https://tv-it.com/placeholder.jpg",
+      "product_url": "https://tv-it.com/product-categories/gaming-laptop",
+      "product_current_price": 47999.0,
+      "product_original_price": 55999.0,
+      "product_discount_percentage": 14.29,
       "product_specs": [
         {
-          "specification_name": "Type",
-          "specification_value": "Bean-to-Cup Commercial Espresso Machine"
+          "specification_name": "Processor",
+          "specification_value": "Intel Core i7 14650HX"
         },
         {
-          "specification_name": "Application",
-          "specification_value": "Office & Commercial Space"
+          "specification_name": "Graphics Card",
+          "specification_value": "RTX 5070 8GB"
+        },
+        {
+          "specification_name": "RAM",
+          "specification_value": "16GB RAM"
+        },
+        {
+          "specification_name": "Storage",
+          "specification_value": "1TB SSD"
+        },
+        {
+          "specification_name": "Display",
+          "specification_value": "15.6\" QHD 165Hz"
         }
       ],
       "agent_recommendation_rank": 5,
       "agent_recommendation_notes": [
-        "Top-tier bean-to-cup machine designed specifically to boost productivity with cafe-quality office coffee.",
-        "Commercial-grade performance suitable for workplace environments."
+        "Exceptional value with a high-end RTX 5070 GPU at a heavily discounted price point of 47,999 EGP.",
+        "Features a powerful Intel Core i7 14650HX processor paired with a crisp QHD 165Hz display for superior gaming performance."
       ]
     },
     {
-      "page_url": "https://www.fajtradingllc.com/pages/coffee-machines-in-egypt",
-      "product_title": "De'Longhi Dinamica ECAM350.55.B Fully Automatic Coffee Machine",
-      "product_image_url": "https://www.fajtradingllc.com/cdn/shop/files/delonghi-dinamica.jpg",
-      "product_url": "https://www.fajtradingllc.com/pages/coffee-machines-in-egypt",
-      "product_current_price": 28500.0,
-      "product_original_price": 31000.0,
-      "product_discount_percentage": 8.0,
+      "page_url": "https://tv-it.com/product-categories/gaming-laptop",
+      "product_title": "ASUS TUF Gaming A16 FA608WI-QT044W Gaming Laptop AMD R9 AI 9 HX 370, 16GB RAM 1TB SSD, RTX 4070 8GB, 16” WQXGA 165Hz",
+      "product_image_url": "https://tv-it.com/placeholder.jpg",
+      "product_url": "https://tv-it.com/product-categories/gaming-laptop",
+      "product_current_price": 43999.0,
+      "product_original_price": 49999.0,
+      "product_discount_percentage": 12.0,
       "product_specs": [
         {
-          "specification_name": "Type",
-          "specification_value": "Fully Automatic Bean-to-Cup"
+          "specification_name": "Processor",
+          "specification_value": "AMD Ryzen 9 AI 9 HX 370"
         },
         {
-          "specification_name": "Color",
-          "specification_value": "Black"
+          "specification_name": "Graphics Card",
+          "specification_value": "RTX 4070 8GB"
+        },
+        {
+          "specification_name": "RAM",
+          "specification_value": "16GB RAM"
+        },
+        {
+          "specification_name": "Storage",
+          "specification_value": "1TB SSD"
+        },
+        {
+          "specification_name": "Display",
+          "specification_value": "16\" WQXGA 165Hz"
         }
       ],
       "agent_recommendation_rank": 4,
       "agent_recommendation_notes": [
-        "Renowned brand known for reliability and ease of use in small to medium offices.",
-        "Fully automatic functionality reduces preparation time for office staff."
+        "Offers an advanced AMD Ryzen 9 AI processor and an RTX 4070 GPU under 45,000 EGP.",
+        "Features a high-resolution 16-inch WQXGA 165Hz display ensuring sharp visuals and smooth gameplay."
       ]
     },
     {
-      "page_url": "https://www.fajtradingllc.com/pages/coffee-machines-in-egypt",
-      "product_title": "ECM Synchronika II Espresso Machine",
-      "product_image_url": "https://www.fajtradingllc.com/cdn/shop/files/synchronika-ii.jpg",
-      "product_url": "https://www.fajtradingllc.com/pages/coffee-machines-in-egypt",
-      "product_current_price": 65000.0,
+      "page_url": "https://myxprs.com/collections/gaming-laptops",
+      "product_title": "Asus ROG Strix G16 (G614FM-RV169W) AMD Ryzen 9 9955HX - RTX 5060 (16GB Ram / 1TB)",
+      "product_image_url": "https://myxprs.com/placeholder.jpg",
+      "product_url": "https://myxprs.com/collections/gaming-laptops",
+      "product_current_price": 91499.0,
       "product_original_price": null,
       "product_discount_percentage": null,
       "product_specs": [
         {
-          "specification_name": "Display",
-          "specification_value": "OLED PID Display"
+          "specification_name": "Processor",
+          "specification_value": "AMD Ryzen 9 9955HX"
         },
         {
-          "specification_name": "Heating",
-          "specification_value": "Cartridge heaters in group head"
+          "specification_name": "Graphics Card",
+          "specification_value": "RTX 5060 8GB"
+        },
+        {
+          "specification_name": "RAM",
+          "specification_value": "16GB RAM"
+        },
+        {
+          "specification_name": "Storage",
+          "specification_value": "1TB SSD"
+        },
+        {
+          "specification_name": "Display",
+          "specification_value": "16\" FHD+ 165Hz"
         }
       ],
       "agent_recommendation_rank": 3,
       "agent_recommendation_notes": [
-        "Delivers a premium coffee experience with advanced features like an OLED PID display.",
-        "High-end dual boiler machine, ideal for executive offices or high-standard environments."
+        "Built with top-tier ROG Strix cooling and build quality for sustained gaming performance.",
+        "Equipped with an ultra-powerful Ryzen 9 processor and next-gen RTX 5060 graphics."
       ]
     },
     {
-      "page_url": "https://ecoffee1.com/best-espresso-nespresso-coffee-machines-egypt",
-      "product_title": "CIME CO-03 Commercial Espresso Machine",
-      "product_image_url": "https://ecoffee1.com/wp-content/uploads/cime-co03.jpg",
-      "product_url": "https://ecoffee1.com/best-espresso-nespresso-coffee-machines-egypt",
-      "product_current_price": 55000.0,
-      "product_original_price": 60000.0,
-      "product_discount_percentage": 8.3,
+      "page_url": "https://myxprs.com/collections/gaming-laptops",
+      "product_title": "MSI Cyborg 15 A2RUDX - Intel Core 7 240H - 512GB SSD - 16GB Ram DDR5 - RTX 3050 - 15.6 Inch FHD 144Hz",
+      "product_image_url": "https://myxprs.com/placeholder.jpg",
+      "product_url": "https://myxprs.com/collections/gaming-laptops",
+      "product_current_price": 42999.0,
+      "product_original_price": null,
+      "product_discount_percentage": null,
       "product_specs": [
         {
-          "specification_name": "Category",
-          "specification_value": "Commercial Espresso Machine"
+          "specification_name": "Processor",
+          "specification_value": "Intel Core 7 240H"
         },
         {
-          "specification_name": "Usage",
-          "specification_value": "Busy workplaces and cafes"
+          "specification_name": "Graphics Card",
+          "specification_value": "NVIDIA RTX 3050"
+        },
+        {
+          "specification_name": "RAM",
+          "specification_value": "16GB DDR5"
+        },
+        {
+          "specification_name": "Storage",
+          "specification_value": "512GB SSD"
+        },
+        {
+          "specification_name": "Display",
+          "specification_value": "15.6\" FHD 144Hz"
         }
       ],
       "agent_recommendation_rank": 2,
       "agent_recommendation_notes": [
-        "Robust model favored by professionals for heavy-duty extraction.",
-        "Great for larger office environments requiring robust multi-cup capacity."
+        "A reliable entry-level gaming machine featuring fast DDR5 memory and a 144Hz display.",
+        "Decent choice for budget-conscious buyers seeking an accessible gaming setup."
       ]
     },
     {
-      "page_url": "https://ecoffee1.com/best-espresso-nespresso-coffee-machines-egypt",
-      "product_title": "DSP KA3118 Nespresso Machine",
-      "product_image_url": "https://ecoffee1.com/wp-content/uploads/dsp-ka3118.jpg",
-      "product_url": "https://ecoffee1.com/best-espresso-nespresso-coffee-machines-egypt",
-      "product_current_price": 4200.0,
-      "product_original_price": 5000.0,
-      "product_discount_percentage": 16.0,
+      "page_url": "https://tv-it.com/product-categories/gaming-laptop",
+      "product_title": "MSI Thin 15 B13UC Gaming Laptop, Intel Core i7 13620H, 16GB RAM, 512GB SSD, NVidia RTX 3050 4GB, 15.6-inch FHD 144Hz",
+      "product_image_url": "https://tv-it.com/placeholder.jpg",
+      "product_url": "https://tv-it.com/product-categories/gaming-laptop",
+      "product_current_price": 43999.0,
+      "product_original_price": 49999.0,
+      "product_discount_percentage": 12.0,
       "product_specs": [
         {
-          "specification_name": "Type",
-          "specification_value": "Capsule Coffee Machine"
+          "specification_name": "Processor",
+          "specification_value": "Intel Core i7 13620H"
         },
         {
-          "specification_name": "Convenience",
-          "specification_value": "Minimal cleanup pod system"
+          "specification_name": "Graphics Card",
+          "specification_value": "NVidia RTX 3050 4GB"
+        },
+        {
+          "specification_name": "RAM",
+          "specification_value": "16GB RAM"
+        },
+        {
+          "specification_name": "Storage",
+          "specification_value": "512GB SSD"
+        },
+        {
+          "specification_name": "Display",
+          "specification_value": "15.6-inch FHD 144Hz"
         }
       ],
       "agent_recommendation_rank": 1,
       "agent_recommendation_notes": [
-        "Affordable and compact option offering speed and convenience with minimal cleanup for small office breakrooms.",
-        "Low initial investment with capsule system ease of use."
+        "Features a capable Intel Core i7 processor for heavy multi-tasking tasks.",
+        "Lower GPU performance relative to higher-ranked options, but a solid discount makes it worth considering for general productivity and light gaming."
       ]
     }
   ]
